@@ -1199,6 +1199,10 @@ form button {
         font-size: 1rem;
     }
 
+    .management-info p:nth-child(2) {
+        margin-top: 10px;
+    }
+
     .housing-logos img {
         width: 15%;
     }
