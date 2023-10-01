@@ -1190,10 +1190,6 @@ form button {
     height: 1px;
 }
 
-.credit p {
-    line-height: 25px;
-}
-
 @media (max-width: 600px) {
     .management-info p {
         font-size: 1rem;
